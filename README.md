@@ -3,6 +3,8 @@
 *Search Budget in Multi-Objective Refactoring Optimization: a Model Based Empirical Study*\
 by Daniele Di Pompeo and Michele Tucci
 
+[![DOI](https://zenodo.org/badge/480326029.svg)](https://zenodo.org/badge/latestdoi/480326029)
+
 #### How to generate the tables and figures in the paper
 Initialize the python execution environment:
 ```bash
